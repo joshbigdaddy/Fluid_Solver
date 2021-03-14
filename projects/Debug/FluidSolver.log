@@ -1,0 +1,14 @@
+﻿  solver.cpp
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(34,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(68,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(123,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(189,4): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(218,10): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(236,2): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(246,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(252,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(254,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(254,26): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(277,2): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\src\solver.cpp(287,2): warning C4018: '<=': no coinciden signed/unsigned
+  FluidSolver.vcxproj -> C:\Users\Joshbigdaddy\Desktop\MASTER\PracticaFluidos\Debug\FluidSolver.exe
